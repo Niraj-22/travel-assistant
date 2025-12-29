@@ -7,8 +7,8 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'Krishna Rathore Travel Assistant',
-  description: 'Created by Krishna Rathore',
+  title: 'Voyage Travel Assistant',
+  description: 'Created by Niraj Chordia',
 }
 
 export default function RootLayout({
